@@ -39,9 +39,9 @@ Total Director = CALCULATE(DISTINCTCOUNT(netflix_titles[Director_new]))
 
 ## 📈 Dashboard Features
 
-- **Total Shows by Type (Pie Chart)**: Comparison between Movies and TV Shows.  
+- **Total Shows by Type (Donut Chart)**: Comparison between Movies and TV Shows.  
 - **Total Shows by Release Year (Line Graph)**: Shows the growth trend of Netflix content over time, especially post-2010.  
-- **Total Shows by Rating (Bar Chart)**: Highlights the popularity and diversity of content ratings, with TV-MA being the most frequent.  
+- **Total Shows by Rating (Column Chart)**: Highlights the popularity and diversity of content ratings, with TV-MA being the most frequent.  
 - **Type of Show by Director (Donut Chart)**: Distribution of show types by director.  
 - **Total Shows by Country (Map)**: A global view of content production distribution.
 
@@ -68,6 +68,6 @@ Total Director = CALCULATE(DISTINCTCOUNT(netflix_titles[Director_new]))
 
 ## 🔗 Project Link
 
-You can view the dashboard screenshots and download the `.pbix` file from the **[GitHub Repository]()**  **[Netflix Dashboard](https://github.com/OlonadeSalwa/Netflix-Content-Analysis-Power-BI-Dashboard/blob/main/netflix%20dashboard.PNG)**
+You can view the dashboard screenshots and download the `.pbix` file from the **[GitHub Repository](https://github.com/OlonadeSalwa/Netflix-Content-Analysis-Power-BI-Dashboard/blob/main/netflix%20dashboard.pbix)**  **[Netflix Dashboard](https://github.com/OlonadeSalwa/Netflix-Content-Analysis-Power-BI-Dashboard/blob/main/netflix%20dashboard.PNG)**
 
 
