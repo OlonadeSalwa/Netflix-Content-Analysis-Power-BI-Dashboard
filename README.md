@@ -68,6 +68,6 @@ Total Director = CALCULATE(DISTINCTCOUNT(netflix_titles[Director_new]))
 
 ## 🔗 Project Link
 
-You can view the dashboard screenshots and download the `.pbix` file from the **[GitHub Repository](#)**  [Netflix Interactive Dashboard](https://github.com/OlonadeSalwa/Netflix-Content-Analysis-Power-BI-Dashboard/blob/main/netflix%20dashboard.pbix)
+You can view the dashboard screenshots and download the `.pbix` file from the **[GitHub Repository]()**  **[Netflix Dashboard](https://github.com/OlonadeSalwa/Netflix-Content-Analysis-Power-BI-Dashboard/blob/main/netflix%20dashboard.PNG)**
 
 
